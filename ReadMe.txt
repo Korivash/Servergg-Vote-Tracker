@@ -14,7 +14,7 @@ A simple Node.js script to monitor server votes from https://serverlist.gg/ and 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/korivash/vote-notification-bot.git
+   git clone https://github.com/Korivash/Servergg-Vote-Tracker
    cd vote-notification-bot
    ```
 
