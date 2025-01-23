@@ -1,0 +1,15 @@
+{
+  "name": "vote-notification",
+  "version": "1.0.0",
+  "description": "A script to send notifications to Discord when a vote is received.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Korivash",
+  "license": "ISC"
+}
